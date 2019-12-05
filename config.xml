@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.starthc.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ХК СТАРТ</name>
 
     <description>
-        Хоккейный клуб СТАРТ
+        Сайт хоккейного клуба СТАРТ
     </description>
 
     <author>Tadapp</author>
