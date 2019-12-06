@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.starthc.app"
         versionCode = "10"
-        version     = "1.2.0">
+        version     = "1.3.0">
 
     <name>ХК СТАРТ</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/92857fc5012679af39599bc5c9abc912.png" density="xxhdpi" />
         <icon src="res/android/icon/21715b38037072ab8b68d02bcba0bc9b.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/764295f4e46dea5302d31449ff28c3a2.png" density="port-hdpi"/>
-        <splash src="res/android/screen/79bab3485bfd6d3d4a1f3e5de40a2f1a.png" density="port-ldpi"/>
-        <splash src="res/android/screen/d8b1be99b1236960e79b1f03fe3d23f4.png" density="port-mdpi"/>
-        <splash src="res/android/screen/7d304dddd1f7eebce2c89fe09ed9652d.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/9c7bcda149a910c1b4315b941aee0cd1.png" density="port-hdpi"/>
+        <splash src="res/android/screen/259db6f62414d307e599215143b9d36d.png" density="port-ldpi"/>
+        <splash src="res/android/screen/ebc894b9a405c9e44b81a8516e0be9f5.png" density="port-mdpi"/>
+        <splash src="res/android/screen/30f99d5ae7cc417a8860f37441628d63.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
