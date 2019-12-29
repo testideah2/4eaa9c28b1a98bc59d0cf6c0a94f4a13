@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.starthc.app"
         versionCode = "10"
-        version     = "1.4.0">
+        version     = "1.5.0">
 
     <name>ХК СТАРТ</name>
 
@@ -86,8 +86,8 @@
         <icon src="res/windows/icon/f1ad701082aa28f143315438a3b68208.png" target="Square150x150Logo" />
         <icon src="res/windows/icon/32836a5b098e10e7250d7581bdcbf4ce.png" target="Square310x310Logo" />
 
-        <splash src="res/windows/screen/6060d7c74982f9d8dc49d68853e1d6b4.png" target="SplashScreen"/>
-        <splash src="res/windows/screen/84c5094f624c80dc2b972c99b68de7a1.png" target="SplashScreenPhone"/>
+        <splash src="res/windows/screen/dd104aa93d8cc4058e945a68cf5102d0.png" target="SplashScreen"/>
+        <splash src="res/windows/screen/799fd227af47ed2d5b1612df02643f4a.png" target="SplashScreenPhone"/>
     </platform>
 
     <access origin='*'/>
